@@ -13,14 +13,14 @@ A simple Python script that evaluates the strength of a user-provided password b
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/password-checker.git
-   cd password-checker
+   git clone https://github.com/musadavran/passwordcheck.git
+   cd password-check
 
 
 2. Run the script:
 
 
-python password_checker.py
+python password_check.py
 
 
 ⚙️ Tech
